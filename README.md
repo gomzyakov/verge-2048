@@ -6,7 +6,7 @@ Verge 2048 - это переработанная версия игры 2048, н�
 Игра доступна в [App Store](https://itunes.apple.com/en/app/verge-2048/id873929215).
 
 <p align="center">
-  <img width="320" src="https://raw.githubusercontent.com/gomzyakov/Verge2048/37386c950316cca9a4bfd2c10a3f205526aaa5c7/2048/app-store.png?token=1460709__eyJzY29wZSI6IlJhd0Jsb2I6Z29tenlha292L1ZlcmdlMjA0OC8zNzM4NmM5NTAzMTZjY2E5YTRiZmQyYzEwYTNmMjA1NTI2YWFhNWM3LzIwNDgvYXBwLXN0b3JlLnBuZyIsImV4cGlyZXMiOjE0MDIwMzYyMTR9--7814fc83c03cf03fed0cdf98500dfb8e0fe52a14" alt="Screenshot"/>
+  <img width="320" src="https://raw.githubusercontent.com/gomzyakov/Verge2048/master/2048/app-store.png" alt="Verge 2048 game"/>
 </p>
 
 #### Авторы
