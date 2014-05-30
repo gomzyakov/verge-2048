@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9CCC3817-2A58-455E-AFAA-58DE00114FA9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>2048</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8141FE32-1AC6-4215-AD2F-CB56CAAF0612</key>
+		<string>https://github.com/gomzyakov/Verge2048.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>2048.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8141FE32-1AC6-4215-AD2F-CB56CAAF0612</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gomzyakov/Verge2048.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8141FE32-1AC6-4215-AD2F-CB56CAAF0612</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8141FE32-1AC6-4215-AD2F-CB56CAAF0612</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Verge2048</string>
+		</dict>
+	</array>
+</dict>
+</plist>
